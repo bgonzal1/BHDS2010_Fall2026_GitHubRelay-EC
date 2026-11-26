@@ -10,6 +10,8 @@
 
 # Student 01: Load ggplot2
 
+#install.packages("ggplot2") ##Uncomment if package has not been previously downloaded
+library(ggplot2)
 
 # Student 02: Load dplyr
 
